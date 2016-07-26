@@ -10,9 +10,9 @@ namespace Area
         /// <summary>
         /// Код для нахождения площади прямоугольного треугольника. (Допустима погрешность при вводе гипотенузы до 0.01)
         /// </summary>
-        /// <param name="a">Сторона треугольника/param>
-        /// <param name="b">Сторона треугольника/param>
-        /// <param name="c">Сторона треугольника/param>
+        /// <param name="a">Сторона треугольника</param>
+        /// <param name="b">Сторона треугольника</param>
+        /// <param name="c">Сторона треугольника</param>
         /// <returns>Площадь прямоугольного треугольника</returns>
         public const string Area_right_Triangle_SidesLessThanZero = "Введены не корректные значения сторон.";
         public const string Area_right_Triangle_TriangleIsNotRight = "Введенный треугольник не является прямоугольным.";
